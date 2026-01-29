@@ -1,4 +1,4 @@
-# 🔐 Random Password Generator (React)
+# 🔐 Random Password Generator (Vite+React)
 
 A simple and interactive random password generator built using React.  
 Users can generate passwords by selecting length, numbers, and special characters, with an easy copy-to-clipboard feature.
