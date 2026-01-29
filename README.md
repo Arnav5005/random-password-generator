@@ -40,6 +40,7 @@ Users can generate passwords by selecting length, numbers, and special character
 
 ## 📂 Project Structure
 
+```
 PASSWORD-GENERATOR/
 └── random-password-generator/
 ├── node_modules/
@@ -57,7 +58,7 @@ PASSWORD-GENERATOR/
 ├── vite.config.js
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## ▶️ Run Locally
